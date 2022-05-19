@@ -1,0 +1,2 @@
+# wordpress
+CREATE A WORDPRESS THEME
